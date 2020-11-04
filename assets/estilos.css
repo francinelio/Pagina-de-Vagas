@@ -1,0 +1,16 @@
+
+.form {
+    
+    width: 40%;
+}
+
+.jumbotron {
+   
+   
+    background-image: url(img/emprego.jpg);
+    background-attachment: scroll;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
