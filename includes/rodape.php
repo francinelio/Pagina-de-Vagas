@@ -38,9 +38,9 @@
                     <a href="" class="facebook"><i class="fa fa-facebook"></i></a>
                     <a href="" class="instagram"><i class="fa fa-instagram"></i></a>
                 </div>
-                <a href="">
-                    <button type="button" class="btn btn-default">Contato</button>
-                </a>
+                <!--
+                <a class="btn btn-primary" href="#" role="button">Link</a>
+                -->
             </div>
         </div>
     </div>
