@@ -10,7 +10,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/estilos.css">
+    <link rel="stylesheet" href="assets/rodape.css">
     <!-- Bootstrap CSS -->
 </head>
 
@@ -24,7 +26,7 @@
             <img src="assets/img/estou-de-volta-2.png" alt="Estou de Volta" width="45px" title="Estou de Volta">
         </a>
 
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+        <div class="collapse navbar-collapse text-center" id="navbarTogglerDemo03">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item active">
                     <a class="nav-link" href="#"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
@@ -36,14 +38,9 @@
                     <a class="nav-link" href="#"><i class="fas fa-graduation-cap"></i> Capacitação </a>
                 </li>
             </ul>
-            <!-- Barra de Pesquisa
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
-            -->
+            <div class="container-fluid text-right">
+                <button class="btn btn-light" type="submit">Entrar</button>
+            </div>
         </div>
     </nav>
     <!-- Fim da Barra Superior-->
-
-    

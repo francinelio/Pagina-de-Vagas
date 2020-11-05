@@ -1,16 +1,18 @@
-
+ /* Barra de Pesquisa */
 .form {
     
-    width: 40%;
+    width: 50%;
 }
+
 
 .jumbotron {
    
    
-    background-image: url(img/emprego.jpg);
+    background-image: url(img/jobs.jpg);
     background-attachment: scroll;
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
-   
+    width: 100%;
 }
+
