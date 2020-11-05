@@ -11,15 +11,15 @@
         </form>
     </div>
 </div>
-
 <div class="container-fluid bg-light text-center py-5">
+    <h2 class="text-center pb-5 text-primary">Vagas Publicadas</h2>
     <div class="row text-center">
 
         <div class="card mx-auto shadow bg-white rounded" style="width: 18rem;">
             <img class="img_cards" class="card-img-top" src="assets/img/logo_pet.png" alt="" width="100%">
             <div class="card-body d-flex flex-column mt-auto">
                 <h5 class="card-title">Processos Seletivos abertos</h5>
-                <p class="card-text py-3">A Recode é uma organização da sociedade civil que usa a tecnologia para gerar oportunidades e estimular a transformação social e o empoderamento digital. </p>
+                <p class="card-text py-3">Um exemplo de texto rápido  </p>
                 <a href="#" target="_blank" class="btn btn-primary mt-auto">Candidatar-se</a>
             </div>
         </div>

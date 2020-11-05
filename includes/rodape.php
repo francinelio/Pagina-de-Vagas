@@ -9,7 +9,7 @@
                     </h2>
                 </div>
                 <div class="col-sm-2">
-                    <h5>Inicio</h5>
+                    <h5 class="pb-2">Inicio</h5>
                     <ul>
                         <li><a href="">Home</a></li>
                         <li><a href="index">Vagas</a></li>
@@ -17,7 +17,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-2">
-                    <h5>Estou de Volta</h5>
+                    <h5 class="pb-2">Estou de Volta</h5>
                     <ul>
                         <li><a href="">Entrar</a></li>
                         <li><a href="">Cadastre-se</a></li>
@@ -25,14 +25,14 @@
                     </ul>
                 </div>
                 <div class="col-sm-2">
-                    <h5>Suporte</h5>
+                    <h5 class="pb-2">Suporte</h5>
                     <ul>
                         <li><a href="">Fale Conosco</a></li>
                         <li><a href="parceiros">Parceiros</a></li>
                         <li><a href="">Sobre Nós</a></li>
                     </ul>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-3 my-auto">
                     <div class="text-center ml-5">
                         <a href="" class="twitter"><i class="fa fa-3x mx-2 fa-twitter text-light"></i></a>
                         <a href="" class="facebook"><i class="fa fa-3x mx-2 fa-facebook  text-light"></i></a>
