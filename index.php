@@ -12,55 +12,42 @@
     </div>
 </div>
 
-<div class="container-fluid bg-primary text-center py-5">
+<div class="container-fluid bg-light text-center py-5">
     <div class="row text-center">
 
-        <div class="card mx-auto" style="width: 18rem;">
-            <img class="img_cards" class="card-img-top" src="assets\img\recode_logo.png" alt="RecodePro" width="100%">
-            <hr class="bg-dark">
+        <div class="card mx-auto shadow bg-white rounded" style="width: 18rem;">
+            <img class="img_cards" class="card-img-top" src="assets/img/logo_pet.png" alt="" width="100%">
             <div class="card-body d-flex flex-column mt-auto">
-                <h5 class="card-title">
-                    <i class="fas fa-briefcase"> Parceiros </i>
-                </h5>
-                <p class="card-text">A Recode é uma organização da sociedade civil que usa a tecnologia para gerar oportunidades e estimular a transformação social e o empoderamento digital. </p>
-                <a href="https://www.recodepro.org.br/" target="_blank" class="btn btn-primary mt-auto">Visitar</a>
+                <h5 class="card-title">Processos Seletivos abertos</h5>
+                <p class="card-text py-3">A Recode é uma organização da sociedade civil que usa a tecnologia para gerar oportunidades e estimular a transformação social e o empoderamento digital. </p>
+                <a href="#" target="_blank" class="btn btn-primary mt-auto">Candidatar-se</a>
             </div>
         </div>
 
-        <div class="card mx-auto" style="width: 18rem;">
-            <img class="img_cards" class="card-img-top" src="assets/img/logo_escola.png" alt="Logo Escola" width="100%">
-            <hr class="bg-dark">
+        <div class="card mx-auto shadow bg-white rounded" style="width: 18rem;">
+            <img class="img_cards" class="card-img-top" src="assets/img/logo_advocacia.png" alt="" width="100%">
             <div class="card-body d-flex flex-column mt-auto">
-                <h5 class="card-title">
-                    <i class="fas fa-briefcase"> Parceiros</i>
-                </h5>
-                <p class="card-text">Um exemplo de texto rápido </p>
-
-                
-                <a href="#" class="btn btn-primary mt-auto">Visitar</a>
+                <h5 class="card-title">Processos Seletivos abertos</h5>
+                <p class="card-text py-3">Um exemplo de texto rápido </p>
+                <a href="#" class="btn btn-primary mt-auto">Candidatar-se</a>
             </div>
         </div>
 
-        <div class="card mx-auto" style="width: 18rem;">
-            <img class="img_cards" class="card-img-top" src="assets/img/logo_faculdade.png" alt="Logo Faculdade" width="100%">
-            <hr class="bg-dark">
+        <div class="card mx-auto shadow bg-white rounded" style="width: 18rem;">
+            <img class="img_cards" class="card-img-top" src="assets/img/logo_estudio.png" alt="" width="100%">
             <div class="card-body d-flex flex-column mt-auto">
-                <h5 class="card-title">
-                    <i class="fas fa-briefcase"> Parceiros </i>
-                </h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-primary mt-auto">Visitar</a>
+                <h5 class="card-title">Processos Seletivos abertos</h5>
+                <p class="card-text py-3">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-primary mt-auto">Candidatar-se</a>
             </div>
         </div>
 
-        <div class="card mx-auto" style="width: 18rem;">
-            <img class="img_cards" class="card-img-top" src="assets/img/logo_curso.png" alt="Logo Curso" width="100%">
+        <div class="card mx-auto shadow bg-white rounded" style="width: 18rem;">
+            <img class="img_cards" class="card-img-top" src="assets/img/logo_barbearia.png" alt="" width="100%">
             <div class="card-body d-flex flex-column mt-auto">
-                <h5 class="card-title">
-                    <i class="fas fa-briefcase"> Parceiros </i>
-                </h5>
-                <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-                <a href="#" class="btn btn-primary mt-auto">Visitar</a>
+                <h5 class="card-title">Processos Seletivos abertos</h5>
+                <p class="card-text py-3">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                <a href="#" class="btn btn-primary mt-auto">Candidatar-se</a>
             </div>
         </div>
     </div>

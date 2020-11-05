@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/estilos.css">
-    <link rel="stylesheet" href="assets/rodape.css">
     <!-- Bootstrap CSS -->
 </head>
 
@@ -22,7 +21,7 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="index">
             <img src="assets/img/estou-de-volta-2.png" alt="Estou de Volta" width="45px" title="Estou de Volta">
         </a>
 
@@ -39,7 +38,7 @@
                 </li>
             </ul>
             <div class="container-fluid text-right">
-                <button class="btn btn-light" type="submit">Entrar</button>
+                <button class="btn btn-outline-light" type="submit">Entrar</button>
             </div>
         </div>
     </nav>
