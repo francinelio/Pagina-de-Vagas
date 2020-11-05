@@ -34,9 +34,9 @@
                 </div>
                 <div class="col-sm-3 my-auto">
                     <div class="text-center ml-5">
-                        <a href="" class="twitter"><i class="fa fa-3x mx-2 fa-twitter text-light"></i></a>
-                        <a href="" class="facebook"><i class="fa fa-3x mx-2 fa-facebook  text-light"></i></a>
-                        <a href="" class="instagram"><i class="fa fa-3x mx-2 fa-instagram  text-light"></i></a>
+                        <a href="" target="_blank" title="LinkedIn" class="linkedin"><i class="fa fa-3x mx-2 fa-linkedin text-light"></i></a>
+                        <a href="" target="_blank" title="Facebook" class="facebook"><i class="fa fa-3x mx-2 fa-facebook text-light"></i></a>
+                        <a href="" target="_blank" title="Twitter" class="twitter"><i class="fa fa-3x mx-2 fa-twitter text-light"></i></a>
                     </div>
                 </div>
             </div>
