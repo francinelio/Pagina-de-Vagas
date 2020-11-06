@@ -3,7 +3,7 @@
 <?php require("includes/conexao.php") ?>
 
 <div class="jumbotron jumbotron-fluid text-center text-white my-0">
-    <div class="container">
+    <div class="container my-5">
         <h1 class="display-3">Estou de Volta </h1>
         <h2 class="h4 my-5">Procure uma oportunidade de emprego</h2>
         <form class="form mx-auto">
@@ -12,6 +12,7 @@
         </form>
     </div>
 </div>
+
 <div class="container-fluid bg-light text-center py-5">
     <h2 class="text-center pb-5 text-primary">Vagas Publicadas</h2>
     <div class="row text-center">
